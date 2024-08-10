@@ -68,7 +68,7 @@ export const Icons = {
   moon: Moon,
   laptop: Laptop,
   fish: Fish,
-  gitHub: ({ ...props }: LucideProps) => (
+  GitHub: ({ ...props }: LucideProps) => (
     <svg
       aria-hidden="true"
       focusable="false"
