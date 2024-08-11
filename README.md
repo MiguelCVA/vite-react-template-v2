@@ -31,7 +31,7 @@ Follow these steps to get the project up and running on your local machine:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/MigCVA/vite-react-template-v2.git
+   git clone https://github.com/MiguelCVA/vite-react-template-v2.git
    ```
 
 2. **Navigate to the Project Directory**
